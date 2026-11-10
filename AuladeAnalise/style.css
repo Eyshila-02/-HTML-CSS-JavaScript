@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #ffffff;
+}
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 24px;
+    background: #f03d3d;
+    border-radius: 12px;
+}
+
+h1 {
+    color: #000000;
+    text-align: center;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+}
+
+#resultado {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
